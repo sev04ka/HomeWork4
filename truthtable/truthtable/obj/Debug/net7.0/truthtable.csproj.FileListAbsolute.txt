@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\bin\Debug\net7.0\truthtable.exe
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\bin\Debug\net7.0\truthtable.deps.json
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\bin\Debug\net7.0\truthtable.runtimeconfig.json
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\bin\Debug\net7.0\truthtable.dll
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\bin\Debug\net7.0\truthtable.pdb
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.AssemblyInfo.cs
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.dll
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\refint\truthtable.dll
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.pdb
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\truthtable.genruntimeconfig.cache
+C:\Users\User\Desktop\labsproj\truthtable\truthtable\obj\Debug\net7.0\ref\truthtable.dll
